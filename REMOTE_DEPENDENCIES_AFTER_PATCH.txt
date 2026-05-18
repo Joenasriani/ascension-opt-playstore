@@ -1,0 +1,26 @@
+Remote dependency patch result:
+
+Removed from index.html:
+- https://cdn.tailwindcss.com
+- https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;600&display=swap
+- https://fonts.gstatic.com
+- https://aistudiocdn.com/react@^19.2.0/
+- https://aistudiocdn.com/react@^19.2.0
+- https://aistudiocdn.com/react-dom@^19.2.0/
+- https://aistudiocdn.com/three@^0.181.2
+- https://aistudiocdn.com/@react-three/drei@^10.7.7
+- https://aistudiocdn.com/@react-spring/three@^10.0.3
+- https://aistudiocdn.com/@react-three/fiber@^9.4.0
+
+Local replacements added:
+- ./assets/local-ui.css
+- ./fonts/Montserrat-Thin.ttf
+- ./fonts/Montserrat-Light.ttf
+- ./fonts/Montserrat-Regular.ttf
+- ./fonts/Montserrat-SemiBold.ttf
+
+Do not delete:
+- assets/index-BjuLtVzX.js
+- assets/qa-level-select.js
+- levels_1_21.json
+- music/thelittlehero.mp3
