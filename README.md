@@ -5,7 +5,7 @@
 **Canonical game repository:** https://github.com/Joenasriani/ascension-opt  
 **Play:** https://joenasr.itch.io/ascension  
 **Creator:** Joe Nasr  
-**Creator identity:** https://joe-nasr-signals.vercel.app/v2/
+**Creator identity:** https://joe-nasr-signals.vercel.app/
 
 This repository contains Android packaging, build notes and QA material for ASCENSION. It belongs to the same ASCENSION game lineage and is **not a separate game**.
 
